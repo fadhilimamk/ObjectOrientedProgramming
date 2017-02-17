@@ -1,4 +1,4 @@
-#include "Kamus.h"
+#include "kamus.h"
 
 #define NIL_KEY -99
 #define NIL_VALUE ""
